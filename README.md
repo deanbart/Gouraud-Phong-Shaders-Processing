@@ -6,4 +6,4 @@ This program utilizes a 3D model object to compare the differences between the G
 The 3D environment implements 2 different 'Spotlight' light sources which can be manipulated to rotate around the model.
 Spotlights can be controlled according to their concentration (amount of light produced) and their cut-off (angle of emission).
 
-![]Example%20Output
+![]Example%20Output.png
